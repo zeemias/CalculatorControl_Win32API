@@ -1,0 +1,10 @@
+C:\Users\Фаузат\Desktop\WinApi\WinApi\bin\Debug\WinApi.exe.config
+C:\Users\Фаузат\Desktop\WinApi\WinApi\bin\Debug\WinApi.exe
+C:\Users\Фаузат\Desktop\WinApi\WinApi\bin\Debug\WinApi.pdb
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.csprojResolveAssemblyReference.cache
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.Form1.resources
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.Properties.Resources.resources
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.csproj.GenerateResource.Cache
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.csproj.CoreCompileInputs.cache
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.exe
+C:\Users\Фаузат\Desktop\WinApi\WinApi\obj\Debug\WinApi.pdb
